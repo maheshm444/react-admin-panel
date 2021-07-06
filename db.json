@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mahesh",
+      "email:": "mahesh@gmail.com"
+    }
+  ],
+  "clinics": [
+    {
+      "clinicName": "test clinic1",
+      "clinicBranch": "Bangalore",
+      "clinicBranchCode": 101,
+      "createdAt": "2021-07-06",
+      "id": 1,
+      "clinic_status_id": 1
+    },
+    {
+      "clinicName": "test clinic 2",
+      "clinicBranch": "test 2",
+      "clinicBranchCode": 102,
+      "createdAt": "2021-07-06",
+      "id": 2,
+      "clinic_status_id": 2
+    },
+    {
+      "clinicName": "test clinic 3",
+      "clinicBranch": "clinic 3",
+      "clinicBranchCode": 103,
+      "createdAt": "2021-07-06T09:48:00.000Z",
+      "id": 3,
+      "clinic_status_id": 1
+    },
+    {
+      "clinicName": "test clinic 3",
+      "clinicBranchCode": 101,
+      "clinicBranch": "test",
+      "createdAt": "2021-07-06T11:40:00.000Z",
+      "id": 4,
+      "clinic_status_id": 2
+    },
+    {
+      "clinicName": "test clinic",
+      "clinicBranch": "ee",
+      "clinicBranchCode": 101,
+      "createdAt": "2021-07-06T11:42:00.000Z",
+      "id": 5,
+      "clinic_status_id": 2
+    },
+    {
+      "clinicName": "test clinic 3",
+      "clinicBranch": "rr",
+      "clinicBranchCode": 101,
+      "createdAt": "2021-07-06T11:44:00.000Z",
+      "id": 6,
+      "clinic_status_id": 1
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "text": "Active",
+      "createdAt": "2021-07-06T11:42:00.000Z"
+    },
+    {
+      "id": 2,
+      "text": "Inactive",
+      "createdAt": "2021-07-06T11:42:00.000Z"
+    }
+  ]
+}
